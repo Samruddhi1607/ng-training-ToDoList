@@ -1,0 +1,28 @@
+.actions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn , .btn1{
+  background-color: #edcece14;
+  color: black;
+  width: 80px;
+  font-weight: 400;
+  padding: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.btn:hover{
+ background-color:#777;
+ color: aliceblue;
+}
+.btn1:hover{
+  background-color: red;
+  color: white;
+}
+.right{
+  background-color: #ccc;
+  margin-left: 0px;
+  padding: auto;
+  right: auto;
+}
